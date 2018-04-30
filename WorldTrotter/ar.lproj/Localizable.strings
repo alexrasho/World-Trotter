@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  WorldTrotter
+
+  Created by Alex Rasho on 2/14/18.
+  Copyright © 2018 Alex Rasho. All rights reserved.
+*/
+
+"ferText" = "درجة فارنهيت";
+"celText" = "درجة مئوية";
+"realText" = "هو حقا";
+"stanText" = "اساسي";
+"hybText" = "هجين";
+"satText" = "الأقمار الصناعية";
+"mapText" = "خريطة";
+"convText" = "تحول";
+"webText" = "شبكة";

@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  WorldTrotter
+
+  Created by Alex Rasho on 2/14/18.
+  Copyright © 2018 Alex Rasho. All rights reserved.
+*/
+
+"ferText" = "degrees Farenheit";
+"celText" = "degrees Celsius";
+"realText" = "is really";
+"stanText" = "Standard";
+"hybText" = "Hybrid";
+"satText" = "Satellite";
+"mapText" = "Map";
+"convText" = "Convert";
+"webText" = "Web";

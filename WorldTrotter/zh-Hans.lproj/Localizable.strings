@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  WorldTrotter
+
+  Created by Alex Rasho on 2/14/18.
+  Copyright © 2018 Alex Rasho. All rights reserved.
+*/
+
+"ferText" = "华氏度";
+"celText" = "摄氏度";
+"realText" = "是真的";
+"stanText" = "标准";
+"hybText" = "混合动力";
+"satText" = "卫星";
+"mapText" = "地图";
+"convText" = "兑换";
+"webText" = "卷筒纸";
